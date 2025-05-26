@@ -1,17 +1,20 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+	"Nonplusultra":{
+		"BaseStrength": 1000,
+		"Cost": ,
+		"RequiredTech": "Biotech",
+		"Moves": 50,
+		"IsMilitary": true,
+		"Melee": true,
+		"UniqueNames": [],
+		"ObsoleteTech": "",
+		"Civilian": false,
+		"CanMoveAfterAttacking": true,
+		"PurchaseYield": "Gold",
+		"CanTargetAir": true,
+		"RangedStrength": 100,
+		"Range": 5,
+		"uniques": ["HP when healing", "Eliminates combat penalty for attacking across a coast"],
+		"Can see over obstacles": true
 	}
 ]
