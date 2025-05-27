@@ -24,7 +24,7 @@
 		"innerColor": [213,249,255],
 		"favoredReligion": "Christianity", //endism
 		"uniqueName": "The Great Liars",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great General] is earned [50]% faster","[-3 Happines, +5 Production] per [3] population [in all cities]","[+20]% [Culture]","[-50]% [Happines]","[-35]% [Gold]","[+20]% Production when constructing [Melee] units [in all cities]"],
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great General] is earned [50]% faster","[-3 Happiness, +5 Production] per [3] population [in all cities]","[+20]% [Culture]","[-50]% [Happiness]","[-35]% [Gold]","[+20]% Production when constructing [Melee] units [in all cities]"],
 		"cities": ["Artemja","Mastrick"],
         "spyNames": ["YoR Marthov", "Secam I", "Wirdum", "Mircum", "PesH"]
 	}
