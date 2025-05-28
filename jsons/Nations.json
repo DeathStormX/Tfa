@@ -32,7 +32,7 @@
 		"[-50]% Production when constructing [Building] units [in all cities]",
 		"Starts with [Nanotechnology]"],
 		"cities": ["Artemja","Mastrick","Wrack"],
-        "spyNames": ["YoR Marthov", "Secam I", "Wirdum", "Mircum", "PesH"]
+        	"spyNames": ["YoR Marthov", "Secam I", "Wirdum", "Mircum", "PesH"]
 	},
 	
 	{
@@ -67,7 +67,7 @@
 		"Starts with [Nanotechnology]"
 		],
 		"cities": ["Tryan","Sodior","Noor","Drees","Souther"],
-        "spyNames": ["Agent01", "Agent02", "Agent03", "Agent04", "Niel"]
+        	"spyNames": ["Agent01", "Agent02", "Agent03", "Agent04", "Niel"]
 	},
 	
 	{
@@ -103,7 +103,7 @@
 		"[40] Free Technologies"
 		],
 		"cities": ["Emperia", "Guts", "Crocs", "Bregenz", "Sock", "Hurca", "Rozzo", "Snail"],
-        "spyNames": ["Suca", "Xor", "Hucso", "Guendalin", "Niels"] 
+        	"spyNames": ["Suca", "Xor", "Hucso", "Guendalin", "Niels"] 
 	},
 	
 	{
@@ -138,7 +138,7 @@
 		"Starts with [Nanotechnology]"
 		],
 		"cities": ["Rex", "Bourder", "Cr", "Grecia"],
-        "spyNames": ["Salvo", "Cristopher", "Dejan"]
+        	"spyNames": ["Salvo", "Cristopher", "Dejan"]
 	},
 	
 	
