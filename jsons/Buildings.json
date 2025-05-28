@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Cosmic Rays",
+		"isNationalWonder": true,
+		"cost": 2,
+		"uniques": ["Free [Nonplusultra] appears", "Triggers a global alert upon completion"],
+		"requiredTech": "Nanotechnology",
+		"civilopediaText": [
+			{
+				"text": "Parmos gets hit by cosmic rays. What could happen?"
+			}
+		]
+	}
+
+]
