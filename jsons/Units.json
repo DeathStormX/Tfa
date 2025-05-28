@@ -36,7 +36,7 @@
 		"strength": 250,
 		"rangedStrength": 250,
 		"cost": 5, 
-		"requiredTech": "Agriculture",
+		"requiredTech": "Electronics",
 		"uniques": ["Can move after attacking", "May Paradrop up to [10] tiles from inside friendly territory", "[+500]% Strength <vs [Nonplusultra] units>"], 
 		"attackSound": "arrow"
 		
