@@ -2,7 +2,7 @@
 	{
 		"name": "Cosmic Rays",
 		"isNationalWonder": true,
-		"cost": 2,
+		"cost": 500,
 		"uniques": ["Free [Nonplusultra] appears", "Triggers a global alert upon completion"],
 		"requiredTech": "Nanotechnology",
 		"civilopediaText": [
