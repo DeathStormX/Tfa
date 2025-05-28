@@ -4,7 +4,7 @@
 		"unitType": "Melee",
 		"movement": 30,
 		"strength": 7000,
-		"cost": 5,
+		"cost": 5000,
 		"requiredTech": "Nanotechnology",
 		"uniques": ["Unbuildable", 
 		"Can move after attacking", 
@@ -21,7 +21,7 @@
 		"replaces": "Nonplusultra",
 		"movement": 1,
 		"strength": 5000,
-		"cost": 5, 
+		"cost": 5000, 
 		"requiredTech": "Nanotechnology",
 		"uniques": ["Unbuildable"]
 		"attackSound": "arrow"
