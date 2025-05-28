@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Nonplusultra",
+		"unitType": "Melee",
+		"movement": 30,
+		"strength": 7000,
+		"cost": 5,
+		"requiredTech": "Nanotechnology",
+		"uniques": ["Unbuildable", 
+		"Can move after attacking", 
+		"May enter foreign tiles without open borders", 
+		"May travel on Water tiles without embarking",
+		"Can pass through impassable tiles",
+		]
+	},
+	
+	{
+		"name": "Rox",
+		"unitType": "Sword",
+		"uniqueTo": "The Great Empire of Rox",
+		"replaces": "Nonplusultra",
+		"movement": 1,
+		"strength": 5000,
+		"cost": 5, 
+		"requiredTech": "Nanotechnology",
+		"uniques": ["Unbuildable"]
+		"attackSound": "arrow"
+		
+	},
+	
+	{
+		"name": "Roxian Jeager",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Great Empire of Rox",
+		"movement": 3,
+		"strength": 250,
+		"rangedStrength": 250,
+		"cost": 5, 
+		"requiredTech": "Agriculture",
+		"uniques": ["Can move after attacking", "May Paradrop up to [10] tiles from inside friendly territory", "[+500]% Strength <vs [Nonplusultra] units>"], 
+		"attackSound": "arrow"
+		
+	},
+	
+	
+	{
+		"name": "Anti-Nonplusultra Cannon",
+		"unitType": "Archery",
+		"uniqueTo": "The Great Empire of Rox",
+		"movement": 3,
+		"strength": 200,
+		"cost": 5, 
+		"requiredTech": "Archery",
+		"uniques": ["[+3000]% Strength <vs [Nonplusultra] units>"], 
+		"attackSound": "cannon"
+		
+	},
+	
+	{
+		"name": "Raging Farmer",
+		"unitType": "Sword",
+		"uniqueTo": "The Rebels",
+		"movement": 1,
+		"strength": 5,
+		"cost": 1, 
+		"requiredTech": "Agriculture",
+		"uniques" : ["[+20]% Yield from pillaging tiles", "[+500]% Strength <vs cities>"],
+		"attackSound": "Sword"
+		
+	},
+		
+	
+]

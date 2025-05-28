@@ -1,0 +1,146 @@
+[
+	{
+		"name": "Liberals",
+		"leaderName": "Tomm",
+		"adjective": ["Liberals"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Will II",
+
+		"startIntroPart1": "At the beginning, Parmos was divided into several indipendent tibes. Then your father, King Will II, came to the World and in few years, unified the whole planet under the power of his crown. In his era the Kingdom lived a period of great splendor, everything was perfect. But then an Empire came. Rox, the emperor of a whole Galaxy, wanted to conquer Parmos. Caused by this event the reing broke into several rebellious parts.",
+		"startIntroPart2": "At the moment of your father's death, you made him one last promise: I will make Parmos united again",
+
+		"declaringWar": "You seem to be blocking my path to the head of Rox. I wont stop here. Step aside!",
+		"attacked": "Did you make a pact with my enemy? Now you too are going to be damned! I will raze your empire to the ground!",
+		"defeated": "I'm sorry father. That God could punish me for failing! I reserve no glory, no respect. I failed",
+		"introduction": "Were you a part of my empire? It doesn't matter. You will be mine soon",
+
+		"neutralHello": "DETZO!",
+		"hateHello": "Were you a part of my empire? It doesn't matter. You will be mine soon",
+
+		"tradeRequest": "Accept this request otherwise it will be bad for you",
+
+		"outerColor": [27,53,63], 
+		"innerColor": [213,249,255], 
+		"uniqueName": "The Great Liars",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Biology] technology>",
+		"[-3 Happiness, +5 Production] per [3] population [in all cities]",
+		"[+40]% [Culture]",
+		"[-50]% [Happiness]",
+		"[-35]% [Gold]",
+		"[+20]% Production when constructing [Melee] units [in all cities]",
+		"[-50]% Production when constructing [Building] units [in all cities]",
+		"Starts with [Nanotechnology]"],
+		"cities": ["Artemja","Mastrick","Wrack"],
+        "spyNames": ["YoR Marthov", "Secam I", "Wirdum", "Mircum", "PesH"]
+	},
+	
+	{
+		"name": "New World",
+		"leaderName": "Attilus",
+		"adjective": ["New World"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Gytwerp",
+
+		"startIntroPart1": "You were a General of the Liberal Army. Your life is fantastic. You have everyting you ever wanted: money, glory, power. But one day you discover a secret vicious plan of the King. You can't stand it and so you start a huge rebellion inside the Kingdom, that breaks into 2 part.",
+		"startIntroPart2": "Now you are the King of the rebellion. Will you manage to make your people live their best life?",
+
+		"declaringWar": "I didn't want to do so. But you let me no choise. Die!",
+		"attacked": "Another one? Soldiers! Let take formations!",
+		"defeated": "I knew I should have done it before. I overated myself. I'm sorry for everyone I gave hope to. Evil wins",
+		"introduction": "Will you help me to reach my goal? We will win!",
+
+		"neutralHello": "Don't know who you are",
+		"hateHello": "Look over",
+
+		"tradeRequest": "Let's make this exchange for the benfit of both of us",
+
+		"outerColor": [25,33,63],
+		"innerColor": [212,249,245],
+		"uniqueName": "The Dreamers",
+		"uniques": ["[Great General] is earned [50]% faster",
+		"[+1 Happiness, +10 Production] per [3] population [in all cities]",
+		"[+40]% Production when constructing [Melee] units [in all cities]",
+		"[+1 Gold, +2 Production] per [3] population [in all cities]",
+		"City-State territory always counts as friendly territory",
+		"[-20]% [Culture]",
+		"Starts with [Nanotechnology]"
+		],
+		"cities": ["Tryan","Sodior","Noor","Drees","Souther"],
+        "spyNames": ["Agent01", "Agent02", "Agent03", "Agent04", "Niel"]
+	},
+	
+	{
+		"name": "The Great Empire of Rox",
+		"leaderName": "General Hux",
+		"adjective": ["New World"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Rox",
+
+		"startIntroPart1": "You are one of the best General of the The Galattic Roxian Empire. You were sent to this planet to make it just another point of the half-galattic-sized Empire.",
+		"startIntroPart2": "Conquer everyting and spread the power of Rox!",
+
+		"declaringWar": "I think... that you're gonna DIE!",
+		"attacked": "Look! A little fly tried to attack us. Let's smash it!",
+		"defeated": "Rox will come for you",
+		"introduction": "Hello snails! What's up. Ready to suffer in the fire of the treanches?",
+
+		"neutralHello": "Hi, little snail!",
+		"hateHello": "Shut up or I'll bury you all!",
+
+		"tradeRequest": "What do think of this trade, snail?",
+
+		"outerColor": [45,35,61], 
+		"innerColor": [214,249,233], 
+		"uniqueName": "The Conquers",
+		"uniques": ["[Great General] is earned [80]% faster",
+		"[2] free [Settler] units appear",
+		"[5] free [Worker] units appear",
+		"[-5 Happiness, +30 Production] per [3] population [in all cities]",
+		"[+90]% Production when constructing [Melee] units [in all cities]",
+		"[-60]% [Culture]",
+		"[+30]% [Gold]",
+		"[4] Free Technologies",
+		"Starts with [Nanotechnology]"
+		],
+		"cities": ["Emperia", "Guts", "Crocs", "Bregenz", "Sock", "Hurca", "Rozzo", "Snail"],
+        "spyNames": ["Suca", "Xor", "Hucso", "Guendalin", "Niels"] 
+	},
+	
+	{
+		"name": "The Rebels",
+		"leaderName": "Flint Fort",
+		"adjective": ["The Rebels"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Rex",
+
+		"startIntroPart1": "Rex Bourder was just a child when both of his parents were killed by the nonplusultra of the New World. He never forgot that moment. So when he grew up he became one of the best soldiers of the Liberal Army with only desire: REVENGE! But soon he discoverd that the King wanted to slave all his subjects. So he started a Rebellion because as he always used to said:'Nobody lives alone'.",
+		"startIntroPart2": "In one of his battles Rex gets killed. But before diyng Rex entrust you the Rebellion. Will you guide them all?",
+
+		"declaringWar": "You seem to be taking my freedom away. I won't let you do it!",
+		"attacked": "Another subtractor of freedom? Well so!",
+		"defeated": "I can feel my freedom fade away. How much pain in this unjustice world!",
+		"introduction": "Freedom to you!",
+
+		"neutralHello": "Hi brother.",
+		"hateHello": "Are you a subtractor of freedom? Answer me...",
+
+		"tradeRequest": "Would you accept this trade?",
+
+		"outerColor": [49,85,61],
+		"innerColor": [214,289,213],
+		"uniqueName": "The second ones",
+		"uniques": [
+		"[5] free [Raging Farmer] units appear",
+		"[+5 Happiness, +15 Production] per [3] population [in all cities]",
+		"[+60]% [Culture]",
+		"[-50]% [Gold]",
+		"City-State territory always counts as friendly territory",
+		"Starts with [Nanotechnology]"
+		],
+		"cities": ["Rex", "Bourder", "Cr", "Grecia"],
+        "spyNames": ["Salvo", "Cristopher", "Dejan"]
+	},
+	
+	
+]
