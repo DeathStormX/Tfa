@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Nonplusultra",
-		"unitType": "Melee",
+		"unitType": "Archery",
 		"movement": 30,
 		"strength": 7000,
 		"cost": 5000,
