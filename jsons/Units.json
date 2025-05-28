@@ -1,9 +1,10 @@
 [
 	{
 		"name": "Nonplusultra",
-		"unitType": "Archery",
+		"unitType": "Melee",
 		"movement": 30,
 		"strength": 7000,
+		"rangedStrength": 7000,
 		"cost": 5000,
 		"requiredTech": "Nanotechnology",
 		"uniques": ["Unbuildable", 
