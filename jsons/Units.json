@@ -63,7 +63,7 @@
 		"movement": 1,
 		"strength": 5,
 		"cost": 1, 
-		"requiredTech": "Agriculture",
+		"requiredTech": "Mathematics",
 		"uniques" : ["[+20]% Yield from pillaging tiles", "[+500]% Strength <vs cities>"],
 		"attackSound": "Sword"
 		
