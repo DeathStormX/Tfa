@@ -62,9 +62,9 @@
 		"uniqueTo": "The Rebels",
 		"movement": 1,
 		"strength": 5,
-		"cost": 1, 
+		"cost": 2, 
 		"requiredTech": "Mathematics",
-		"uniques" : ["[+20]% Yield from pillaging tiles", "[+500]% Strength <vs cities>"],
+		"uniques" : ["[+20]% Yield from pillaging tiles", "[+100]% Strength <vs cities>"],
 		"attackSound": "Sword"
 		
 	}
