@@ -100,7 +100,7 @@
 		"[+90]% Production when constructing [Melee] units [in all cities]",
 		"[-60]% [Culture]",
 		"[+30]% [Gold]",
-		"[4] Free Technologies"
+		"[40] Free Technologies"
 		],
 		"cities": ["Emperia", "Guts", "Crocs", "Bregenz", "Sock", "Hurca", "Rozzo", "Snail"],
         "spyNames": ["Suca", "Xor", "Hucso", "Guendalin", "Niels"] 
