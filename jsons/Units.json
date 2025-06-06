@@ -52,7 +52,7 @@
 		"strength": 200,
 		"cost": 450, 
 		"requiredTech": "Satellites",
-		"uniques": ["[+3000]% Strength <vs [Nonplusultra] units>", "Limited to [3] per Civilization"], 
+		"uniques": ["[+3000]% Strength <vs [Nonplusultra] units>", "Limited to [3] per Civilization","Consumes [3] [Uranium]"], 
 		"attackSound": "cannon"
 		
 	},
