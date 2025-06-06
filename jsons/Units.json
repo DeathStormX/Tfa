@@ -36,9 +36,9 @@
 		"movement": 3,
 		"strength": 250,
 		"rangedStrength": 250,
-		"cost": 5, 
+		"cost": 250, 
 		"requiredTech": "Electronics",
-		"uniques": ["Can move after attacking", "May Paradrop up to [10] tiles from inside friendly territory", "[+500]% Strength <vs [Nonplusultra] units>"], 
+		"uniques": ["Can move after attacking", "[+500]% Strength <vs [Nonplusultra] units>", "[-50]% Strength <vs cities>"], 
 		"attackSound": "arrow"
 		
 	},
@@ -50,9 +50,9 @@
 		"uniqueTo": "The Great Empire of Rox",
 		"movement": 3,
 		"strength": 200,
-		"cost": 5, 
-		"requiredTech": "Archery",
-		"uniques": ["[+3000]% Strength <vs [Nonplusultra] units>"], 
+		"cost": 450, 
+		"requiredTech": "Satellites",
+		"uniques": ["[+3000]% Strength <vs [Nonplusultra] units>", "Limited to [3] per Civilization"], 
 		"attackSound": "cannon"
 		
 	},
@@ -63,12 +63,24 @@
 		"uniqueTo": "The Rebels",
 		"movement": 1,
 		"strength": 5,
-		"cost": 2, 
+		"cost": 15, 
 		"requiredTech": "Mathematics",
 		"uniques" : ["[+20]% Yield from pillaging tiles", "[+100]% Strength <vs cities>"],
 		"attackSound": "Sword"
 		
-	}
+	},
+
+	{
+		"name": "Drago",
+		"unitType": "Armored",
+		"uniqueTo": "New World",
+		"movement": 2,
+		"strength": 70,
+		"cost": 100, 
+		"requiredTech": "Horseback Riding",
+		"uniques" : ["[3] additional attacks per turn", "[+50]% Strength <vs [Raging Farmer] units>"],
+		"attackSound": "Sword"
 		
+	}	
 	
 ]
