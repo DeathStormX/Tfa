@@ -20,18 +20,18 @@
 
 		"tradeRequest": "Accept this request otherwise it will be bad for you",
 
-		"outerColor": [27,53,63], 
-		"innerColor": [213,249,255], 
+		"outerColor": [255,247,0], 
+		"innerColor": [0,179,255], 
 		"uniqueName": "The Great Liars",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Biology] technology>",
-		"[-3 Happiness, +5 Production] per [3] population [in all cities]",
+		"[-3 Happiness, +5 Production] per [5] population [in all cities]",
 		"[+40]% [Culture]",
 		"[-50]% [Happiness]",
 		"[+60]% [Gold]",
 		"[+60]% Production when constructing [Melee] units [in all cities]",
 		"[-50]% Production when constructing [Building] units [in all cities]",
 		"Starts with [Nanotechnology]"],
-		"cities": ["Artemja","Mastrick","Wrack"],
+		"cities": ["Artemja","Mastrick","Wrack", "Troon", "Ajax", "Liffe", "Mador"],
         	"spyNames": ["YoR Marthov", "Secam I", "Wirdum", "Mircum", "PesH"]
 	},
 	
@@ -59,11 +59,11 @@
 		"innerColor": [212,249,245],
 		"uniqueName": "The Dreamers",
 		"uniques": ["[Great General] is earned [50]% faster",
-		"[+1 Happiness, +10 Production] per [3] population [in all cities]",
+		"[+1 Happiness, +10 Production] per [5] population [in all cities]",
 		"[+40]% Production when constructing [Melee] units [in all cities]",
-		"[+1 Gold, +2 Production] per [3] population [in all cities]",
+		"[+1 Gold, +2 Production] per [5] population [in all cities]",
 		"City-State territory always counts as friendly territory",
-		"[-20]% [Culture]",
+		"[-40]% [Culture]",
 		"Starts with [Nanotechnology]"
 		],
 		"cities": ["Tryan","Sodior","Noor","Drees","Souther"],
@@ -99,8 +99,7 @@
 		"[-5 Happiness, +30 Production] per [7] population [in all cities]",
 		"[+90]% Production when constructing [Melee] units [in all cities]",
 		"[-60]% [Culture]",
-		"[+30]% [Gold]",
-		"[40] Free Technologies"
+		"[35] Free Technologies"
 		],
 		"cities": ["Emperia", "Guts", "Crocs", "Bregenz", "Sock", "Hurca", "Rozzo", "Snail"],
         	"spyNames": ["Suca", "Xor", "Hucso", "Guendalin", "Niels"] 
@@ -130,14 +129,14 @@
 		"innerColor": [214,289,213],
 		"uniqueName": "The second ones",
 		"uniques": [
-		"[5] free [Raging Farmer] units appear",
-		"[+5 Happiness, +15 Production] per [3] population [in all cities]",
-		"[+60]% [Culture]",
+		"[3] free [Raging Farmer] units appear",
+		"[+5 Happiness, +15 Production] per [5] population [in all cities]",
+		"[+80]% [Culture]",
 		"[-50]% [Gold]",
 		"City-State territory always counts as friendly territory",
 		"Starts with [Nanotechnology]"
 		],
-		"cities": ["Rex", "Bourder", "Cr", "Grecia"],
+		"cities": ["Rex", "Bourder", "Cr", "Grecia", "Atene", "Mongolia", "Vatican City"],
         	"spyNames": ["Salvo", "Cristopher", "Dejan"]
 	}
 	
