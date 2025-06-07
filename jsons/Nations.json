@@ -96,9 +96,10 @@
 		"uniques": ["[Great General] is earned [80]% faster",
 		"[2] free [Settler] units appear",
 		"[5] free [Worker] units appear",
-		"[-5 Happiness, +30 Production] per [7] population [in all cities]",
+		"[-5 Happiness, +30 Production] per [3] population [in all cities]",
 		"[+90]% Production when constructing [Melee] units [in all cities]",
 		"[-60]% [Culture]",
+		"[+60]% [Science]",
 		"[35] Free Technologies"
 		],
 		"cities": ["Emperia", "Guts", "Crocs", "Bregenz", "Sock", "Hurca", "Rozzo", "Snail"],
