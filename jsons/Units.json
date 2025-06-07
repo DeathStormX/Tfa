@@ -76,7 +76,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "New World",
 		"movement": 2,
-		"strength": 70,
+		"strength": 30,
 		"cost": 100, 
 		"requiredTech": "Horseback Riding",
 		"uniques" : ["[3] additional attacks per turn", "[+50]% Strength <vs [Raging Farmer] units>"],
