@@ -29,7 +29,6 @@
 		"[-50]% [Happiness]",
 		"[+60]% [Gold]",
 		"[+60]% Production when constructing [Melee] units [in all cities]",
-		"[-50]% Production when constructing [Building] units [in all cities]",
 		"Starts with [Nanotechnology]"],
 		"cities": ["Artemja","Mastrick","Wrack", "Troon", "Ajax", "Liffe", "Mador"],
         	"spyNames": ["YoR Marthov", "Secam I", "Wirdum", "Mircum", "PesH"]
@@ -59,9 +58,8 @@
 		"innerColor": [212,249,245],
 		"uniqueName": "The Dreamers",
 		"uniques": ["[Great General] is earned [50]% faster",
-		"[+1 Happiness, +10 Production] per [5] population [in all cities]",
-		"[+40]% Production when constructing [Melee] units [in all cities]",
-		"[+1 Gold, +2 Production] per [5] population [in all cities]",
+		"[+40]% [Production]",
+		"[+100 Gold, +50 Production] per [5] population [in all cities]",
 		"City-State territory always counts as friendly territory",
 		"[-40]% [Culture]",
 		"Starts with [Nanotechnology]"
@@ -97,7 +95,7 @@
 		"[2] free [Settler] units appear",
 		"[5] free [Worker] units appear",
 		"[-5 Happiness, +30 Production] per [3] population [in all cities]",
-		"[+90]% Production when constructing [Melee] units [in all cities]",
+		"[+90]% [Production]",
 		"[-60]% [Culture]",
 		"[+60]% [Science]",
 		"[35] Free Technologies"
