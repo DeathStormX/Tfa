@@ -98,7 +98,7 @@
 		"[+50]% Production when constructing [Settler] units [in all cities]"
 		"[+90]% [Production]",
 		"[-60]% [Culture]",
-		"[+60]% [Science]",
+		"[+30]% [Science]",
 		"[40] Free Technologies"
 		],
 		"cities": ["Emperia", "Guts", "Crocs", "Bregenz", "Sock", "Hurca", "Rozzo", "Snail"],
